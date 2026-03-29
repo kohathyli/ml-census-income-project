@@ -1,0 +1,160 @@
+cluster,column,rank,category,weighted_count,share_within_topn
+0,education,1,High school graduate,26996625.51,0.573274947135378
+0,education,2,Some college but no degree,12633305.39,0.268268990763851
+0,education,3,7th and 8th grade,7462002.29,0.158456062100771
+0,marital stat,1,Married-civilian spouse present,42337415.47,0.5968032667181074
+0,marital stat,2,Never married,14603548.62,0.205856815427678
+0,marital stat,3,Widowed,13999357.17,0.1973399178542147
+0,race,1,White,66014820.27,0.8420628070544178
+0,race,2,Black,10216299.55,0.1303156752013647
+0,race,3,Asian or Pacific Islander,2165431.74,0.027621517744217474
+0,sex,1,Female,51764483.04,0.6509896013281858
+0,sex,2,Male,27752122.04,0.3490103986718141
+0,class of worker,1,Not in universe,78908796.83,0.9935397850704395
+0,class of worker,2,Never worked,428716.32,0.005397962426757608
+0,class of worker,3,Self-employed-not incorporated,84366.09,0.001062252502802904
+0,major industry code,1,Not in universe or children,79337513.15,0.998619788293808
+0,major industry code,2,Construction,71761.41,0.0009032595202017012
+0,major industry code,3,Manufacturing-durable goods,37892.5,0.00047695218599025526
+0,major occupation code,1,Not in universe,79337513.15,0.9984532505327224
+0,major occupation code,2,Executive admin and managerial,95583.26,0.001202904059559804
+0,major occupation code,3,Farming forestry and fishing,27322.100000000002,0.00034384540771782555
+0,citizenship,1,Native- Born in the United States,68773619.76,0.878995403295897
+0,citizenship,2,Foreign born- Not a citizen of U S ,6287074.58,0.0803550791027679
+0,citizenship,3,Foreign born- U S citizen by naturalization,3180465.4,0.04064951760133508
+1,education,1,Children,79090131.31,0.9360248172774656
+1,education,2,9th grade,3050200.73,0.036098860043198
+1,education,3,10th grade,2355431.16,0.027876322679336426
+1,marital stat,1,Never married,88056607.17,1.0
+1,race,1,White,69197618.73,0.8048836837020262
+1,race,2,Black,14444854.86,0.16801774690575275
+1,race,3,Asian or Pacific Islander,2329723.55,0.02709856939222107
+1,sex,1,Male,45222004.83,0.5135560667548259
+1,sex,2,Female,42834602.34,0.48644393324517415
+1,class of worker,1,Not in universe,87695162.51,0.9959046231481216
+1,class of worker,2,Never worked,356720.2,0.00405107061988524
+1,class of worker,3,Self-employed-not incorporated,3901.42,4.430623199312142e-05
+1,major industry code,1,Not in universe or children,88051882.71,0.9999463474672504
+1,major industry code,2,Retail trade,2444.06,2.7755554961157606e-05
+1,major industry code,3,Construction,2280.3999999999996,2.5896977788361906e-05
+1,major occupation code,1,Not in universe,88051882.71,0.9999519580202774
+1,major occupation code,2,Executive admin and managerial,2444.06,2.7755710693525945e-05
+1,major occupation code,3,Precision production craft & repair,1786.33,2.0286269029060743e-05
+1,citizenship,1,Native- Born in the United States,84148519.88,0.9611376891455443
+1,citizenship,2,Foreign born- Not a citizen of U S ,2793547.11,0.031907672501590455
+1,citizenship,3,Native- Born abroad of American Parent(s),608885.21,0.006954638352865339
+2,education,1,High school graduate,1710595.34,0.38355127899273617
+2,education,2,Bachelors degree(BA AB BS),1512053.93,0.33903413928246356
+2,education,3,Some college but no degree,1237237.67,0.27741458172480044
+2,marital stat,1,Married-civilian spouse present,3974289.92,0.6256673927080029
+2,marital stat,2,Never married,1686295.38,0.2654713307226844
+2,marital stat,3,Divorced,691495.64,0.10886127656931274
+2,race,1,White,6051276.73,0.8940164871409957
+2,race,2,Black,527193.48,0.07788763992507688
+2,race,3,Asian or Pacific Islander,190170.88,0.02809587293392742
+2,sex,1,Male,5014665.95,0.7314408226042937
+2,sex,2,Female,1841207.82,0.26855917739570634
+2,class of worker,1,Private,4013738.48,0.7124843744028683
+2,class of worker,2,Not in universe,1096046.24,0.19456071279038986
+2,class of worker,3,Self-employed-not incorporated,523655.99,0.09295491280674187
+2,major industry code,1,Not in universe or children,1096046.24,0.44837080337417523
+2,major industry code,2,Manufacturing-durable goods,688241.1,0.28154579949302694
+2,major industry code,3,Retail trade,660221.16,0.2700833971327979
+2,major occupation code,1,Professional specialty,1156916.48,0.34531711104471513
+2,major occupation code,2,Executive admin and managerial,1097338.91,0.327534362928391
+2,major occupation code,3,Not in universe,1096046.24,0.32714852602689387
+2,citizenship,1,Native- Born in the United States,6193663.96,0.9149000210843161
+2,citizenship,2,Foreign born- Not a citizen of U S ,340713.03,0.050328587463550616
+2,citizenship,3,Foreign born- U S citizen by naturalization,235394.37,0.03477139145213318
+3,education,1,High school graduate,8039700.78,0.4019032796148763
+3,education,2,Some college but no degree,7243572.42,0.3621049578073808
+3,education,3,Bachelors degree(BA AB BS),4720795.41,0.23599176257774293
+3,marital stat,1,Married-civilian spouse present,12927018.68,0.4915014321964893
+3,marital stat,2,Never married,10596599.5,0.402895977764813
+3,marital stat,3,Divorced,2777462.21,0.10560259003869764
+3,race,1,White,24337938.45,0.8891857826273767
+3,race,2,Black,2522855.77,0.09217245277006784
+3,race,3,Asian or Pacific Islander,510244.46,0.018641764602555448
+3,sex,1,Male,14846064.33,0.5338981321275742
+3,sex,2,Female,12960858.82,0.4661018678724259
+3,class of worker,1,Private,20404182.49,0.8445957933268537
+3,class of worker,2,Local government,2146020.65,0.08883080781456784
+3,class of worker,3,Not in universe,1608314.64,0.06657339885857849
+3,major industry code,1,Retail trade,5232442.28,0.520260153627732
+3,major industry code,2,Education,2782551.48,0.2766682522223395
+3,major industry code,3,Manufacturing-durable goods,2042363.59,0.20307159414992848
+3,major occupation code,1,Adm support including clerical,4169331.07,0.36411167595047433
+3,major occupation code,2,Professional specialty,3885284.35,0.33930560381779645
+3,major occupation code,3,Other service,3396077.72,0.29658272023172916
+3,citizenship,1,Native- Born in the United States,25582978.51,0.9353466456151646
+3,citizenship,2,Foreign born- Not a citizen of U S ,1244874.13,0.04551420161078797
+3,citizenship,3,Foreign born- U S citizen by naturalization,523481.36,0.01913915277404751
+4,education,1,High school graduate,24638611.93,0.48758297684174534
+4,education,2,Some college but no degree,14522652.33,0.2873943578809031
+4,education,3,Bachelors degree(BA AB BS),11370877.14,0.2250226652773516
+4,marital stat,1,Married-civilian spouse present,41980982.01,0.6198588131143596
+4,marital stat,2,Never married,18588159.86,0.27445843706216777
+4,marital stat,3,Divorced,7157542.21,0.10568274982347253
+4,race,1,White,60925964.09,0.8577029423290268
+4,race,2,Black,8262030.22,0.1163111283530505
+4,race,3,Asian or Pacific Islander,1845881.27,0.025985929317922766
+4,sex,1,Male,38040286.55,0.5280318777750244
+4,sex,2,Female,34001361.22,0.4719681222249756
+4,class of worker,1,Private,52017521.43,0.8156740493947436
+4,class of worker,2,Self-employed-not incorporated,6263666.59,0.0982190260333568
+4,class of worker,3,Local government,5491248.37,0.08610692457189968
+4,major industry code,1,Retail trade,12550078.71,0.5046764540972225
+4,major industry code,2,Manufacturing-durable goods,6952994.7,0.2796008528422035
+4,major industry code,3,Education,5364499.88,0.21572269306057407
+4,major occupation code,1,Adm support including clerical,10830432.32,0.36906334678138647
+4,major occupation code,2,Professional specialty,9578229.91,0.32639265750253804
+4,major occupation code,3,Executive admin and managerial,8937065.04,0.3045439957160755
+4,citizenship,1,Native- Born in the United States,63451243.86,0.8946682449376734
+4,citizenship,2,Foreign born- Not a citizen of U S ,5037816.36,0.07103366375392438
+4,citizenship,3,Foreign born- U S citizen by naturalization,2432473.23,0.03429809130840219
+5,education,1,Bachelors degree(BA AB BS),216690.63,0.44162734342145926
+5,education,2,Prof school degree (MD DDS DVM LLB JD),168718.99,0.34385852004053774
+5,education,3,Masters degree(MA MS MEng MEd MSW MBA),105254.36,0.21451413653800305
+5,marital stat,1,Married-civilian spouse present,592920.89,0.8808632072093284
+5,marital stat,2,Never married,41010.47,0.06092653293656418
+5,marital stat,3,Divorced,39182.11,0.058210259854107514
+5,race,1,White,644810.22,0.9325036284344309
+5,race,2,Asian or Pacific Islander,23697.53,0.03427059935547203
+5,race,3,Black,22975.05,0.033225772210096906
+5,sex,1,Male,562925.98,0.807172633152209
+5,sex,2,Female,134478.71,0.19282736684779106
+5,class of worker,1,Private,360362.82,0.607890675000329
+5,class of worker,2,Self-employed-incorporated,139809.65,0.23584281672027024
+5,class of worker,3,Self-employed-not incorporated,92636.13,0.1562665082794008
+5,major industry code,1,Medical except hospital,95691.63,0.3526858844827267
+5,major industry code,2,Other professional services,89802.31,0.3309799104785028
+5,major industry code,3,Finance insurance and real estate,85828.6,0.31633420503877047
+5,major occupation code,1,Professional specialty,232634.18,0.41985804999319865
+5,major occupation code,2,Executive admin and managerial,208448.54,0.376207819196342
+5,major occupation code,3,Sales,112995.45,0.2039341308104595
+5,citizenship,1,Native- Born in the United States,630274.46,0.9133532600127637
+5,citizenship,2,Foreign born- U S citizen by naturalization,37848.98,0.054848310482322096
+5,citizenship,3,Foreign born- Not a citizen of U S ,21943.03,0.03179842950491422
+6,education,1,High school graduate,24079100.71,0.47809095370516835
+6,education,2,Some college but no degree,14575503.55,0.289396870625596
+6,education,3,Bachelors degree(BA AB BS),11710499.96,0.2325121756692356
+6,marital stat,1,Married-civilian spouse present,42591614.44,0.6264248681751963
+6,marital stat,2,Never married,18345859.99,0.2698254827129384
+6,marital stat,3,Divorced,7054102.22,0.1037496491118654
+6,race,1,White,60673356.22,0.854339764297352
+6,race,2,Black,8488687.65,0.11952896391289897
+6,race,3,Asian or Pacific Islander,1855786.22,0.026131271789748934
+6,sex,1,Male,38004584.46,0.5258633949309113
+6,sex,2,Female,34266246.38,0.4741366050690888
+6,class of worker,1,Private,52310219.25,0.8163804854892831
+6,class of worker,2,Self-employed-not incorporated,6086752.32,0.09499302211497844
+6,class of worker,3,Local government,5678811.94,0.08862649239573848
+6,major industry code,1,Retail trade,12075407.77,0.49145003171770407
+6,major industry code,2,Manufacturing-durable goods,6712414.71,0.2731846812103045
+6,major industry code,3,Education,5783155.22,0.23536528707199145
+6,major occupation code,1,Adm support including clerical,10790387.83,0.36221573752840275
+6,major occupation code,2,Professional specialty,9744574.37,0.3271094837311256
+6,major occupation code,3,Executive admin and managerial,9254985.37,0.31067477874047156
+6,citizenship,1,Native- Born in the United States,63610858.38,0.8919085594357903
+6,citizenship,2,Foreign born- Not a citizen of U S ,5218558.98,0.0731711148178112
+6,citizenship,3,Foreign born- U S citizen by naturalization,2490515.28,0.034920325746398514

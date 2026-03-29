@@ -1,0 +1,40 @@
+{
+  "dataset_rows": 199523,
+  "train_rows": 139665,
+  "validation_rows": 29929,
+  "test_rows": 29929,
+  "positive_rate_full_data": 0.06205800834991455,
+  "selected_threshold": 0.695,
+  "selected_count_test": 681,
+  "selected_pct_test": 0.02275385078017976,
+  "threshold_selection": {
+    "strategy": "precision_at_min_recall",
+    "min_recall": 0.3,
+    "validation_threshold_summary": {
+      "precision": 0.8581990559657271,
+      "recall": 0.3044316487899855,
+      "f1": 0.44943411958580753
+    }
+  },
+  "validation_metrics": {
+    "accuracy": 0.9525139516918488,
+    "balanced_accuracy": 0.6505057194270963,
+    "precision": 0.8581990559657271,
+    "recall": 0.3044316487899855,
+    "f1": 0.44943411958580753,
+    "roc_auc": 0.950372395021983,
+    "average_precision": 0.6802794146184579,
+    "threshold": 0.695
+  },
+  "test_metrics": {
+    "accuracy": 0.9536011603687687,
+    "balanced_accuracy": 0.6591554842821779,
+    "precision": 0.890917276702314,
+    "recall": 0.3210253584322368,
+    "f1": 0.47198114794448154,
+    "roc_auc": 0.956042012616806,
+    "average_precision": 0.6987722203471008,
+    "threshold": 0.695
+  },
+  "model": "CatBoostClassifier"
+}

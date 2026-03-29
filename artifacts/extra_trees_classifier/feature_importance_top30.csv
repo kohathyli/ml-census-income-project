@@ -1,0 +1,31 @@
+feature,importance
+num__weeks worked in year,0.07277718008584792
+cat__tax filer stat_Nonfiler,0.04817735345867463
+cat__detailed household summary in household_Householder,0.04342777948643055
+cat__major occupation code_Not in universe,0.0429518665092616
+cat__major industry code_Not in universe or children,0.03758876137066473
+cat__sex_Male,0.035802891753987744
+cat__sex_Female,0.03537749011557536
+cat__class of worker_Not in universe,0.03177884035398201
+num__detailed occupation recode,0.030228187149557783
+cat__tax filer stat_Joint both under 65,0.027624610821820925
+cat__marital stat_Never married,0.02750832735575194
+num__num persons worked for employer,0.027489857429321845
+cat__education_Bachelors degree(BA AB BS),0.024841658402315205
+cat__marital stat_Married-civilian spouse present,0.024159959958991166
+cat__major occupation code_Executive admin and managerial,0.022435667576584977
+cat__major occupation code_Professional specialty,0.021968923184387697
+cat__detailed household and family stat_Householder,0.02061985349686825
+cat__education_High school graduate,0.019927197736497856
+cat__education_Masters degree(MA MS MEng MEd MSW MBA),0.01836537817487177
+num__detailed industry recode,0.016930836225065964
+cat__family members under 18_Not in universe,0.016592021115374497
+num__age,0.016553604367831824
+cat__major occupation code_Other service,0.013869406592162665
+cat__detailed household and family stat_Child <18 never marr not in subfamily,0.012903749153952536
+num__veterans benefits,0.01188230120115376
+cat__education_Children,0.011705781261861432
+cat__major occupation code_Adm support including clerical,0.011136490143629121
+cat__detailed household summary in household_Child under 18 never married,0.010795501067587178
+cat__detailed household summary in household_Child 18 or older,0.008504471944660669
+cat__education_Prof school degree (MD DDS DVM LLB JD),0.008028104508230844

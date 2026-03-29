@@ -1,0 +1,40 @@
+{
+  "dataset_rows": 199523,
+  "train_rows": 139665,
+  "validation_rows": 29929,
+  "test_rows": 29929,
+  "positive_rate_full_data": 0.06205800834991455,
+  "selected_threshold": 0.8899999999999999,
+  "threshold_selection": {
+    "strategy": "precision_at_min_recall",
+    "min_recall": 0.3,
+    "validation_threshold_summary": {
+      "precision": 0.6835804894420145,
+      "recall": 0.30876672720236314,
+      "f1": 0.4253892326480709
+    }
+  },
+  "validation_metrics": {
+    "accuracy": 0.9468931261657016,
+    "balanced_accuracy": 0.6495243740034121,
+    "precision": 0.6835804894420145,
+    "recall": 0.30876672720236314,
+    "f1": 0.4253892326480709,
+    "roc_auc": 0.9315460767386712,
+    "average_precision": 0.5456045070358779,
+    "threshold": 0.8899999999999999,
+    "roc_auc_recomputed": 0.9319360896428647
+  },
+  "test_metrics": {
+    "accuracy": 0.9469071982332914,
+    "balanced_accuracy": 0.6591922450989358,
+    "precision": 0.6857110354785063,
+    "recall": 0.3287914234423802,
+    "f1": 0.44446596544465977,
+    "roc_auc": 0.9372743566921821,
+    "average_precision": 0.5683456144414843,
+    "threshold": 0.8899999999999999,
+    "roc_auc_recomputed": 0.9358262997234743
+  },
+  "model": "Weighted Extra Trees with One-Hot Encoding"
+}

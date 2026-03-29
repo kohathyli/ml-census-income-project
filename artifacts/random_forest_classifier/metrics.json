@@ -1,0 +1,40 @@
+{
+  "dataset_rows": 199523,
+  "train_rows": 139665,
+  "validation_rows": 29929,
+  "test_rows": 29929,
+  "positive_rate_full_data": 0.06205800834991455,
+  "selected_threshold": 0.8899999999999999,
+  "threshold_selection": {
+    "strategy": "precision_at_min_recall",
+    "min_recall": 0.3,
+    "validation_threshold_summary": {
+      "precision": 0.7263031700010524,
+      "recall": 0.3100201465943451,
+      "f1": 0.4345528304340457
+    }
+  },
+  "validation_metrics": {
+    "accuracy": 0.948634402462805,
+    "balanced_accuracy": 0.6510383075681895,
+    "precision": 0.7263031700010524,
+    "recall": 0.3100201465943451,
+    "f1": 0.4345528304340457,
+    "roc_auc": 0.9427471791484058,
+    "average_precision": 0.5943473780599515,
+    "threshold": 0.8899999999999999,
+    "roc_auc_recomputed": 0.9429855768987294
+  },
+  "test_metrics": {
+    "accuracy": 0.9496063984582515,
+    "balanced_accuracy": 0.6639810602346531,
+    "precision": 0.7431842971467769,
+    "recall": 0.3359798722291771,
+    "f1": 0.46275621871785355,
+    "roc_auc": 0.9467880490907961,
+    "average_precision": 0.6164902330870701,
+    "threshold": 0.8899999999999999,
+    "roc_auc_recomputed": 0.9458481962606196
+  },
+  "model": "Weighted Random Forest with One-Hot Encoding"
+}

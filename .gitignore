@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+.env
+# large model artifacts
+artifacts/*/*.joblib
+
+# optional: ignore all generated artifacts
+# artifacts/
